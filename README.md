@@ -1,24 +1,16 @@
-# README
+# fly.ioサンプルアプリケーション
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+fly.ioのデプロイに利用したRailsサンプルアプリケーション
 
-Things you may want to cover:
+## 環境構築
 
-* Ruby version
+### SSH
+```
+git clone git@github.com:te19oishi/fly.io-rails-app.git
+```
 
-* System dependencies
+## Article
 
-* Configuration
+記事のURLです。
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://zenn.dev/te19oishi/articles/a01711e9307b98
